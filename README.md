@@ -51,7 +51,6 @@ Technologies Used
 Project Structure
 
 IAIP/
-│
 ├── tictactoe.py
 ├── README.md
 
@@ -69,7 +68,7 @@ cd IAIP
 
 Step 3: Run the Program
 
-python tic_tac_toe.py
+python tictactoe.py
 
 ---
 
